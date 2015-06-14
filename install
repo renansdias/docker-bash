@@ -1,0 +1,6 @@
+#!/bin/bash
+
+set -e
+
+cp scripts/docker-bash /usr/local/bin/
+chmod 755 /usr/local/bin/docker-bash
